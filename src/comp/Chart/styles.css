@@ -1,0 +1,17 @@
+html,
+body,
+#root,
+.chart {
+  margin: 0;
+  height: 35rem;
+}
+
+.chart {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.chart-container {
+  flex: 1;
+}

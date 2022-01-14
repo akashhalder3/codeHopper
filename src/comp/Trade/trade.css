@@ -1,0 +1,10 @@
+.tradecontainer {
+    font-size: 12px;
+    background-color: ghostwhite;
+    line-height: 1;
+}
+
+.vl {
+    border-left: 2px solid rgb(10, 10, 10);
+    height: 30px;
+  }
